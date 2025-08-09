@@ -39,7 +39,8 @@ I am applying for the 12-month full-time R&D internship at Synopsys (Noida) beca
 ---
 
 ## Attachments
-- `Kaushlesh_Resume_Synopsys.pdf` — tailored one-page resume focused on C/C++, Verilog, Digital Design & Linux.
+- `Kaushlesh_Chaurasiya_Resume_R&D.pdf` — tailored resume focused on C/C++, Verilog, Digital Design & Linux.
+
 
 ---
 
